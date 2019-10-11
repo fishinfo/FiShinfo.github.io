@@ -1,11 +1,10 @@
 
-# FiSh 
-Fisher-Shannon method
+
 _ _"FiSh knowledge from your data."_ _
 
 ## Description
 
-Ongoing work ...
+Proposes non-parametric estimates of the Fisher Information Measure and the Shannon Entropy Power.
 
 
 
