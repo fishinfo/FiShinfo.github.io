@@ -4,7 +4,8 @@ _ _"FiSh knowledge from your data."_ _
 
 ## Description
 
-Proposes non-parametric estimates of the Fisher Information Measure and the Shannon Entropy Power.
+Proposes non-parametric estimates of the Fisher Information Measure and the Shannon Entropy Power. 
+More info soon.
 
 
 
